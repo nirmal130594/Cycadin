@@ -1,7 +1,9 @@
 It is a CRM software
 
-Can be used to store the details of the customers 
+Can be used to store the details of the customers.
 
-The details can be stored in a Systmatic and organised way
+The details can be stored in a Systmatic and organised      way
 
 Code to copy billing address to the shipping address
+
+code to create campaign
