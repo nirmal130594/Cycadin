@@ -1,0 +1,6 @@
+It is a CRM software
+
+Can be used to store the details of the customers 
+
+The details can be stored in a Systmatic and organised way
+
