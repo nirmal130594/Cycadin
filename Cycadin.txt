@@ -7,3 +7,7 @@ The details can be stored in a Systmatic and organised      way
 Code to copy billing address to the shipping address
 
 code to create campaign
+
+Code to capture images 
+
+Code to record videos
